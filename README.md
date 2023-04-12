@@ -5,7 +5,7 @@ It check the DRAM with diffrent read/write operations
 Its based on the work on
 https://forum.defence-force.org/viewtopic.php?t=1699
  
-<img src="https://github.com/Tishima/C64-myPLATester/blob/main/myPLA_Tester%20shield/pictures/myPLA_Tester%20shield_complete.jpg" width="300" alt="C64 myPLATester shield">
+<img src="https://github.com/Tishima/myDRAMTester/blob/main/myDRAM%20Tester/pictures/myDRAMTester_complete.jpg" width="300" alt="C64 myPLATester shield">
 
 
 This repository contains all eagle files, gerber file, BOM, schematics
