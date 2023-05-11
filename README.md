@@ -1,4 +1,7 @@
 # my DRAMTester for 4164 and 41256 DRAM
+
+DRAMduino
+
 The DRAMTester shield is a Arduino UNO shield , to test DRAM 4164 and 41256 .
 It check the DRAM with diffrent read/write operations
 
